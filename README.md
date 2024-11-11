@@ -23,3 +23,5 @@ Because of this, there are lots of different logiverse sites. Here are some of t
 - [Login](https://todepond.com/lab/login)
 - [Loggo](https://svenlaa-com.pages.dev/playground/loggo/)
 - [Login Redux](https://login.rossilaz.xyz/)
+
+Join us! We're experimenting and exploring how far we can push this thing :)
