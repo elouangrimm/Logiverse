@@ -4,7 +4,7 @@ The logiverse is a HIGHLY EXPERIMENTAL network of social media sites.
 
 ## Sign up
 
-To sign up, just [login](https://svenlaa.com/playground/loggo/).
+To sign up, just [login](https://todepond.com/lab/login).
 
 <br>
 
