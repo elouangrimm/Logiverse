@@ -24,6 +24,7 @@ Because of this, there are lots of different logiverse sites. Here are some of t
 - [Loggo](https://svenlaa.com/playground/loggo/)
 - [Login Redux](https://login.rossilaz.xyz/)
 - [LOGIN](https://cute-catgirl.github.io/login/)
+- [Logon](https://evolved.systems/logon/)
 
 There are also various different clients. All of the sites above have their own client, and there's also:
 
