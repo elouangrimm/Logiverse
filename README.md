@@ -23,7 +23,7 @@ Because of this, there are lots of different logiverse sites. Here are some of t
 - [Login](https://todepond.com/lab/login)
 - [Loggo](https://svenlaa.com/playground/loggo/)
 - [Login Redux](https://login.rossilaz.xyz/)
-- [Cute Login](https://cute-catgirl.github.io/login/)
+- [LOGIN](https://cute-catgirl.github.io/login/)
 
 There are also various different clients. All of the sites above have their own client, and there's also:
 
