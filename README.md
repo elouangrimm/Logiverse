@@ -21,7 +21,7 @@ The logiverse is built for the [tadi web](https://www.youtube.com/watch?v=ft6xOA
 Because of this, there are lots of different logiverse sites. Here are some of them: 
 
 - [Login](https://todepond.com/lab/login)
-- [Loggo](https://svenlaa-com.pages.dev/playground/loggo/)
+- [Loggo](https://svenlaa.com/playground/loggo/)
 - [Login Redux](https://login.rossilaz.xyz/)
 - [Cute Login](https://cute-catgirl.github.io/login/)
 
