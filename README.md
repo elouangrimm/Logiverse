@@ -29,7 +29,9 @@ Because of this, there are lots of different logiverse sites. Here are some of t
 There are also various different clients. All of the sites above have their own client, and there's also:
 
 - [Logarithm](https://tristie.org/logarithm/)
-- Some people have created their own [command-line client](https://xoxo.zone/@annika/113136710954037798) too.
+- [Loft](https://github.com/cute-catgirl/Loft)
+
+Some people have created their own [command-line client](https://xoxo.zone/@annika/113136710954037798) too.
 
 Join us! We're exploring and experimenting with how far we can push this thing :)
 
