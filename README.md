@@ -30,6 +30,7 @@ There are also various different clients. All of the sites above have their own 
 
 - [Logarithm](https://tristie.org/logarithm/)
 - [Loft](https://github.com/cute-catgirl/Loft)
+- [Signup](https://gaimeri.github.io/signup/)
 
 Some people have created their own [command-line client](https://xoxo.zone/@annika/113136710954037798) too.
 
