@@ -20,10 +20,11 @@ The logiverse is built for the [tadi web](https://www.youtube.com/watch?v=ft6xOA
 
 Because of this, there are lots of different logiverse sites. Here are some of them: 
 
-- [Loggo](https://svenlaa.com/playground/loggo/)
-- [Login](https://todepond.com/lab/login)
-- [Login Redux](https://login.rossilaz.xyz/)
-- [Logon](https://evolved.systems/logon/)
+- [Loggo](https://svenlaa.com/playground/loggo) by [svenlaa](https://svenlaa.com)
+- [Login](https://todepond.com/lab/login) by [todepond](https://todepond.com)
+- [Login Redux](https://login.rossilaz.xyz) by [rossilaz](https://rossilaz.xyz)
+- [Logon](https://evolved.systems/logon) by [evolved](https://evolved.systems)
+- [Lodge](https://lodge.maemoon.me) by [maemoon](http://maemoon.me)
 
 There are also various different clients. All of the sites above have their own client, and there's also:
 
