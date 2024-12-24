@@ -22,15 +22,15 @@ Because of this, there are lots of different logiverse sites. Here are some of t
 
 - [Loggo](https://svenlaa.com/playground/loggo) by [svenlaa](https://svenlaa.com)
 - [Login](https://todepond.com/lab/login) by [todepond](https://todepond.com)
-- [Login Redux](https://login.rossilaz.xyz) by [rossilaz](https://rossilaz.xyz)
-- [Logon](https://evolved.systems/logon) by [evolved](https://evolved.systems)
+- [Login Redux](https://login.rossilaz.xyz) by [mittzy](https://mastodon.gamedev.place/@Mittzy) ⁂
+- [Logon](https://evolved.systems/logon) by [evol](https://evolved.systems)
 - [Lodge](https://lodge.maemoon.me) by [maemoon](http://maemoon.me)
 
 There are also various different clients. All of the sites above have their own client, and there's also:
 
-- [Logarithm](https://tristie.org/logarithm/)
-- [Loft](https://github.com/cute-catgirl/Loft)
-- [Signup](https://gaimeri.github.io/signup/)
+- [Logarithm](https://tristie.org/logarithm/) by [tristie](https://tristie.org)
+- [Loft](https://github.com/cute-catgirl/Loft) by [maemoon](http://maemoon.me)
+- [Signup](https://gaimeri.github.io/signup/) by [gaimeri](https://bsky.app/profile/gaimeri.bsky.social) 🦋
 
 Some people have created their own [command-line client](https://xoxo.zone/@annika/113136710954037798) too.
 
